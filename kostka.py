@@ -20,4 +20,4 @@ def zgaduj():
     else:
         print("Zgadłeś")
 
-(zgaduj())
+zgaduj()
